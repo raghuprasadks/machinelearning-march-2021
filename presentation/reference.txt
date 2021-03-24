@@ -1,0 +1,18 @@
+https://www.slideshare.net/Simplilearn/random-forest-algorithm-random-forest-explained-random-forest-in-machine-learning-simplilearn-91647398
+https://www.slideshare.net/Simplilearn/k-means-clustering-algorithm-k-means-clustering-example-machine-learning-algorithms-simplilearn
+https://www.slideshare.net/CloudxLab/ensemble-learning-and-random-forests
+https://www.slideshare.net/dylsey/introduction-to-computer-vision-using-opencv
+Gradient descent
+https://www.youtube.com/watch?v=IHZwWFHWa-w
+
+install Microsoft Visual C++ Build Tools
+https://www.geeksforgeeks.org/opencv-python-tutorial/
+https://www.slideshare.net/dylsey/introduction-to-computer-vision-using-opencv
+https://www.geeksforgeeks.org/ensemble-classifier-data-mining/
+https://www.geeksforgeeks.org/random-forest-regression-in-python/
+https://www.geeksforgeeks.org/ibm-hr-analytics-on-employee-attrition-performance-using-random-forest-classifier/?ref=rp
+https://www.geeksforgeeks.org/boosting-in-machine-learning-boosting-and-adaboost/
+https://www.geeksforgeeks.org/boosting-in-machine-learning-boosting-and-adaboost/
+https://www.geeksforgeeks.org/ml-xgboost-extreme-gradient-boosting/
+https://www.geeksforgeeks.org/ml-xgboost-extreme-gradient-boosting/
+https://www.geeksforgeeks.org/opencv-python-tutorial/
